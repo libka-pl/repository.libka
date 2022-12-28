@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="repository.libka" name="Libka Core Repository" version="0.8" provider-name="libka-team">
+<addon id="repository.libka" name="Libka Core Repository" version="0.9" provider-name="libka-team">
 	<extension point="xbmc.addon.repository" name="Libka Core Repository">
-		<dir minversion="18.9.701">
+		<dir minversion="18.9.701" maxversion="19.8.999">
 			<info compressed="false">https://zip.libka.pl/dists/main/19/addons.xml</info>
 			<checksum>https://zip.libka.pl/dists/main/19/addons.xml.md5</checksum>
 			<datadir zip="true">https://zip.libka.pl/pool/19/</datadir>
